@@ -2,6 +2,9 @@
 
 The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
 
+## Tests-Passing
+![Tests-Passing](screenshots/tests-passing.png)
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)

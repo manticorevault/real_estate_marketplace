@@ -30069,7 +30069,7 @@
   },
   "networks": {},
   "schemaVersion": "3.3.0",
-  "updatedAt": "2020-10-16T18:14:26.624Z",
+  "updatedAt": "2020-10-16T19:08:04.025Z",
   "devdoc": {
     "methods": {
       "_isApprovedOrOwner(address,uint256)": {

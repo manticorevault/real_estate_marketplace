@@ -15,5 +15,11 @@ module.exports = {
       provider: () => new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/${infuraKey}`),
       network_id: 4,
     },
+    solc: {
+      optimizer: {
+        enabled: true,
+        runs: 200
+      }
+    }
   }
 }
