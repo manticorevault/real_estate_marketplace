@@ -29938,7 +29938,7 @@
   },
   "networks": {},
   "schemaVersion": "3.3.0",
-  "updatedAt": "2020-10-16T19:08:03.982Z",
+  "updatedAt": "2020-10-17T11:36:24.351Z",
   "devdoc": {
     "methods": {
       "_isApprovedOrOwner(address,uint256)": {
